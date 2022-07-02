@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @taynaslima
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-taynaslima/taynaslima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# sobre mim
+- 👋 Oii, me chamo @taynaslima
+- 👀 Meu pricipal interesse é desenhos/arte
+- 🌱 Desenho a mais de um ano, mas ainda estou em aprendizado
